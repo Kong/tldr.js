@@ -22,7 +22,7 @@ $(/* element */).more({ /* options */ })
 Try it on [jsFiddle](http://jsfiddle.net/WTUXa/)
 
 
-# Legal Stuff
+## Legal Stuff
 
 Copyright 2013 Mashape, authored by Nijiko Yonskai
 
