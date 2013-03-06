@@ -4,18 +4,23 @@ Micro Read-more Script
 
 Substring paragraphs that are verbose and long, while making them expandable with a "more" link.
 
-# Usage
+## Usage
 
 ```javascript
 $(/* element */).more({ /* options */ })
 ```
 
-# Options
+## Options
 
 * `text.more` **String** *Read more text for `.more-link` when `.more-container` can be expanded*
 * `text.less` **String** *Read less text to be shown upon expansion*
 * `length` **Number** *Characters to show before trimming excess off.*
   * If element inner text is shorter than `length` we ignore the element and continue.
+
+## Examples
+
+Try it on [jsFiddle](http://jsfiddle.net/WTUXa/)
+
 
 # Legal Stuff
 
